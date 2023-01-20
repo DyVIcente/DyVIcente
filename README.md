@@ -1,6 +1,6 @@
 # Salut :wave: , Je suis Dylan ! 
 
-Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React. Je suis actuellement à la recherche d'une alternance pour une formation en tant que développeur JavaScript React en bac +3/4 sur Bordeaux !
+Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React. Je suis actuellement à la recherche d'une alternance pour une formation en tant que développeur d'application - JavaScript React en bac +3/4 sur Bordeaux !
 
 ##  	:climbing_man: Compétences
 - Maîtrise des technologies web : HTML, CSS, JavaScript
