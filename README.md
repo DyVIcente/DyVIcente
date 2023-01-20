@@ -1,16 +1,37 @@
-# Salut :wave: , Je suis Dylan ! 
+# <p align="center">Salut :wave: , Je suis Dylan ! </p>
 
-Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React. Je suis actuellement à la recherche d'une alternance pour une formation en tant que développeur d'application - JavaScript React en bac +3/4 sur Bordeaux !
+<p align="center">Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React. Je suis actuellement à la recherche d'une alternance pour une formation en tant que développeur d'application - JavaScript React en bac +3/4 sur Bordeaux !</p>
 
-##  	:climbing_man: Compétences
-- Maîtrise des technologies web : HTML, CSS, JavaScript
-- Expérience en développement avec Node.js et Express
-- Connaissance approfondie de React et de ses outils connexes (Redux, Hooks, etc.)
-- Utilisation de bibliothèques css comme Tailwind.
+##  	<p align="center">:climbing_man: Compétences <p>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma logo" width="40px" height="40px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="mui logo" width="40px" height="40px"/>
+</div>
 
 
-## :phone: Coordonnées
-Vous pouvez me contacter par email à dyl.vicente@gmail.com </br>
-Ou par mon <a href="https://www.linkedin.com/in/dylan-vicente/"> LinkedIn </a>
+
+<p align="center">- Maîtrise des technologies web : HTML, CSS, JavaScript </p>
+<p align="center">- Expérience en développement avec Node.js et Express</p>
+<p align="center">- Connaissance approfondie de React et de ses outils connexes (Redux, Hooks, etc.)</p>
+<p align="center">- Utilisation de bibliothèques css comme Tailwind.</p>
+
+
+<p align="center">- En ce moment, s'intéresse à Next.js ! </p>
+
+## <p align="center">:phone: Coordonnées<p>
+<p align="center">Vous pouvez me contacter par email à dyl.vicente@gmail.com </br>
+Ou par mon <a href="https://www.linkedin.com/in/dylan-vicente/"> LinkedIn </a></p>
+
+
+
+
 
 
