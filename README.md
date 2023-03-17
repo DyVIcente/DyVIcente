@@ -33,6 +33,10 @@
 Ou par mon <a href="https://www.linkedin.com/in/dylan-vicente/"> LinkedIn </a></p>
 
 
+<p align="center">Vous pouvez me retrouver aussi sur mon <a href="https://dylanvicente.com/"> Portfolio </a></p> </br>
+
+
+
 
 
 
