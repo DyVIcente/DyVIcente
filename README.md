@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/a7/a4/5d/a7a45d1dcb73994b8810be9d787b0344.png" alt="cyberpunkcity" align="center"/></p>
 
-<p align="center">Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React. Je suis actuellement à la recherche d'une alternance pour une formation en tant que développeur d'application - JavaScript React en bac +3/4 sur Bordeaux !</p>
+<p align="center">Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React.</p>
 
 ##  	<p align="center">:climbing_man: Compétences <p>
 
