@@ -26,7 +26,6 @@
 <p align="center">- Utilisation de bibliothèques css comme Tailwind.</p>
 
 
-<p align="center">- En ce moment, s'intéresse à Next.js ! </p>
 
 ## <p align="center">:phone: Coordonnées<p>
 <p align="center">Vous pouvez me contacter par email à dyl.vicente@gmail.com </br>
