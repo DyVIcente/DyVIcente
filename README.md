@@ -2,8 +2,8 @@
 
 <p align="center"><img src="https://i.pinimg.com/originals/a7/a4/5d/a7a45d1dcb73994b8810be9d787b0344.png" alt="cyberpunkcity" align="center"/></p>
 
-<p align="center">Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React.</p>
-<p align="center">En ce moment dévelopeur React et React Native en alternance chez Fidme.</p>
+<p align="center">Je suis un développeur web passionné par les technologies modernes, spécialement sur les projets React - React Native - Nextjs.</p>
+<p align="center">En ce moment dévelopeur React, Nextjs et React Native en alternance chez Fidme.</p>
 
 ##  	<p align="center">:climbing_man: Compétences <p>
 
@@ -21,10 +21,9 @@
 
 
 
-<p align="center">- Maîtrise des technologies web : HTML, CSS, JavaScript </p>
-<p align="center">- Expérience en développement avec Node.js et Express</p>
+<p align="center">- Maîtrise des technologies web et mobile</p>
 <p align="center">- Connaissance approfondie de React et de ses outils connexes (Redux, Hooks, etc.)</p>
-<p align="center">- Utilisation de bibliothèques css comme Tailwind.</p>
+
 
 
 
